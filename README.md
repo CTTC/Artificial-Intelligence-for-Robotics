@@ -2,7 +2,7 @@
 
 This notebook coded the alogrithms talked in the [Artificial Intelligence for Robotics](https://classroom.udacity.com/courses/cs373/lessons/48739381/concepts/487350240923)
 
-It covers the following alogrithms:
+It covers the **following alogrithms:**
 ###State Estimation and Localization:
 * Monte Carlo Localization
 * Histogram Filters
