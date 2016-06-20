@@ -14,3 +14,6 @@ It covers the **following alogrithms:**
 * Dynamic Programming for deterministic motion
 * Dynamic Programming for stochastic motion
 
+###PID Control:
+* Path Smoothing
+* PID
