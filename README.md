@@ -15,5 +15,6 @@ It covers the **following alogrithms:**
 * Dynamic Programming for stochastic motion
 
 ###PID Control:
-* Path Smoothing
-* PID
+* Path Smoothing(Non-cyclic path smoothing, cyclic path smoothing, constrained path smoothing)
+* PID Control
+* Twiddle Algorithm for parameter optimization (Automatically Tuning kp, ki, and kd)
