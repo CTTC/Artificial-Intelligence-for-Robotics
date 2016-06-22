@@ -18,3 +18,6 @@ It covers the **following alogrithms:**
 * Path Smoothing(Non-cyclic path smoothing, cyclic path smoothing, constrained path smoothing)
 * PID Control
 * Twiddle Algorithm for parameter optimization (Automatically Tuning kp, ki, and kd)
+
+###Combined:
+This notebook puts most of the algorithms talked in the class together including particle filters, A* algorithm, smoothing, PID control.
