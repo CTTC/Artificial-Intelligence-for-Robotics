@@ -21,3 +21,7 @@ It covers the **following alogrithms:**
 
 ###Combined:
 This notebook puts most of the algorithms talked in the class together including particle filters, A* algorithm, smoothing, PID control.
+
+###SLAM:
+* Graph SLAM
+* Online SLAM
